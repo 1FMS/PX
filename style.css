@@ -113,3 +113,10 @@ header{
     outline: none;
     
 }
+
+h1{
+
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
